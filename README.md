@@ -128,6 +128,7 @@
 | [Irisnet](https://irisnet.de/api/) | Realtime content moderation API that blocks or blurs unwanted images in real-time | `apiKey` | Yes |
 | [ISMS Copilot](https://www.ismscopilot.com/products/api) | OpenAI-compatible text-only compliance completions: curated framework knowledge (100+ modules) injected before generation and disclosed on success | `apiKey` | No |
 | [Keen IO](https://keen.io/) | Data Analytics | `apiKey` | Unknown |
+| [Linkrra](https://linkrra.com) | OpenAI-compatible inference API for open-weight models, with chat completions, streaming and JSON-schema structured output | `apiKey` | No |
 | [Machinetutors](https://machinetutors.com/api/) | AI Solutions: Video/Image Classification & Tagging, NSFW, Icon/Image/Audio Search, NLP | `apiKey` | Yes |
 | [Magic Hour](https://magichour.ai/api) | Generate and edit AI videos, images, and audio through a self-serve REST API | `apiKey` | Yes |
 | [MessengerX.io](https://messengerx.rtfd.io) | A FREE API for developers to build and monetize personalized ML based chat apps | `apiKey` | Yes |
